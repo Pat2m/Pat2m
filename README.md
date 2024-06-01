@@ -2,7 +2,7 @@
 - 🍓 My pronouns are They/Them
 - 👀 I’m interested in ...
 - 💻 I'm currently working on motion detection with an IMU vest
-- 🌱 I’m currently learning Python and Unix
+- 🌱 I’m currently learning Rust
 - 📫 Reach me at twomey33@students.rowan.edu
 
 <!---
