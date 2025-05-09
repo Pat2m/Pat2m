@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pat2m
-- 🍓 My pronouns are They/Them
-- 👀 I’m interested in ...
-- 💻 I'm currently working on motion detection with an IMU vest
+- 🍓 My pronouns are She/Her
+- 👀 I’m interested in Data Base Design, and Quality Engineering
 - 🌱 I’m currently learning Rust
 - 📫 Reach me at twomey33@students.rowan.edu
 
